@@ -4,7 +4,10 @@ public class test1 {
     }
 
     public static void newMethod(){
-        System.out.println("My new method is ready...");
-        System.out.println("Add cart is here...");
+        System.out.println("Add something to cart...");
+    }
+
+    public static void removeFromCart(){
+        System.out.println("Remove from Cart is finished");
     }
 }
